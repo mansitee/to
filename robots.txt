@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /.git
+Allow: /
+
+Sitemap: https://mansitee.github.io/sitemap.xml
