@@ -1,6 +1,6 @@
 {
-	"name": "Sima App PWA",
-	"short_name": "Sima App PWA",
+	"name": "Sima by mansitee",
+	"short_name": "Sima by mansitee",
 	"description": "sima app version progressive web app built.",
 	"display": "standalone",
 	"start_url": "./?utm_source=pwa_install",
